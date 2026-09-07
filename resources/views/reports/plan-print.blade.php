@@ -45,7 +45,7 @@
     <!-- رأس التقرير -->
     <div class="report-header d-flex justify-content-between align-items-center">
         <div>
-            <h3 class="fw-bold text-primary mb-1">🏥 تقرير تقييم الخطة العلاجية</h3>
+            <h3 class="fw-bold text-primary mb-1"> تقرير تقييم الخطة العلاجية</h3>
             <p class="text-muted mb-0">Radiation Therapy Plan Evaluation Report</p>
         </div>
         <div class="text-end">

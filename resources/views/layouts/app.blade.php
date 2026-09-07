@@ -7,7 +7,8 @@
 
     <!-- Bootstrap 5 RTL للتصميم -->
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.rtl.min.css">
-    
+    <!-- Bootstrap Icons CDN -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
     <!-- خط Tajawal لتنسيق واجهة عربية احترافية -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -28,7 +29,7 @@
     <nav class="navbar navbar-dark bg-primary shadow-sm mb-4">
         <div class="container">
             <a class="navbar-brand fw-bold" href="#">
-                🏥 نظام تقييم وتحليل خطط العلاج الإشعاعي
+                 نظام تقييم وتحليل خطط العلاج الإشعاعي
             </a>
         </div>
     </nav>
